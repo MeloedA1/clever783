@@ -1,5 +1,5 @@
 import requests
 
-url = 'https://obez888yaniydom.ru/login'
+url = 'https://obez999yaniydom.ru/login'
 
 r = requests.get(url)
